@@ -1,14 +1,18 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "threads":[
+    {
+      "name": "Den",
+      "unreadMessagesCount": 23,
+      "lastMessageText": "Have you ever seen this message, Have you ever seen this message?",
+      "lastMessageDate": "2019-07-01T14:37:01.412Z",
+      "imageUrl": "" 
+    },
+    {
+      "name": "MaX",
+      "unreadMessagesCount": 0,
+      "lastMessageText": "Lorem ipsum",
+      "lastMessageDate": "2019-07-02T14:37:01.412Z",
+      "imageUrl": "" 
+    }
+  ]
 }
