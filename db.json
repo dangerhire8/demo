@@ -38,6 +38,14 @@
       "name": "Jate Beef",
       "avatarUrl": ""
     }
+  ],
+  "testThread":[
+    {
+        "id": 1,
+        "content": "Lorem ipsum sit amet",
+        "dateSent": "2019-07-01T14:37:01.412Z",
+        "dateRead": null,
+        "from": 2
+    }
   ]
-  
 }
