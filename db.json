@@ -14,5 +14,25 @@
       "lastMessageDate": "2019-07-02T14:37:01.412Z",
       "imageUrl": "" 
     }
+  ],
+  users:[
+    {
+      'name': 'Pupkin Vasily',
+      'avatarUrl': ''
+    },
+    {
+      'name': 'Another Vasily',
+      'avatarUrl': ''
+    },
+    {
+      'name': 'Jhon Dou',
+      'avatarUrl': ''
+    },
+    ,
+    {
+      'name': 'Jate Beef',
+      'avatarUrl': ''
+    }
   ]
+  
 }
