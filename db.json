@@ -5,14 +5,16 @@
       "unreadMessagesCount": 23,
       "lastMessageText": "Have you ever seen this message, Have you ever seen this message?",
       "lastMessageDate": "2019-07-01T14:37:01.412Z",
-      "imageUrl": "" 
+      "imageUrl": "",
+      "id": 1
     },
     {
       "name": "MaX",
       "unreadMessagesCount": 0,
       "lastMessageText": "Lorem ipsum",
       "lastMessageDate": "2019-07-02T14:37:01.412Z",
-      "imageUrl": "" 
+      "imageUrl": "",
+      "id": 2
     }
   ],
   "users":[
