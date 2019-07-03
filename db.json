@@ -15,22 +15,22 @@
       "imageUrl": "" 
     }
   ],
-  users:[
+  "users":[
     {
-      'name': 'Pupkin Vasily',
-      'avatarUrl': ''
+      "name": "Pupkin Vasily",
+      "avatarUrl": ""
     },
     {
-      'name': 'Another Vasily',
-      'avatarUrl': ''
+      "name": "Another Vasily",
+      "avatarUrl": ""
     },
     {
-      'name': 'Jhon Dou',
-      'avatarUrl': ''
+      "name": "Jhon Dou",
+      "avatarUrl": ""
     },
     {
-      'name': 'Jate Beef',
-      'avatarUrl': ''
+      "name": "Jate Beef",
+      "avatarUrl": ""
     }
   ]
   
